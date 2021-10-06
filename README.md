@@ -52,4 +52,6 @@ https://user-images.githubusercontent.com/74614080/133801859-285549a9-6321-4768-
 ### After Application
 The end goal in this case is to have the helmet mapping done on each player in the cameras view. We want to have all players in the green and yellow uniforms have an H and then a number above their heads, representing their jersey number. The H stands for home in this case, while the opposing team has a V for visitors above their helmets. The goal is to have the helmet box change colors when an "exposure is detected. This will give us not only a visual representation of overall exposures, but by having the video pause for a split second, it indicates to the viewer that an exposure has occured at this time period and to take notice. We can imagine how powerful this video can be for the different types of users listed above and will give meaningful information that can change lives forever.
 
+-------
+
 ## Sprint 2
