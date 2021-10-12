@@ -38,9 +38,7 @@ The minimum value product in this case is quite a bit. We first need the video f
 
 ## Setup of Development Enviroment
 
-When we first looked at running the code and attempting to simulate results, we first needed to make sure all necessary libraries were installed. This was necessary to be able to import the needed libraries in the code. Once this was done, we then needed to make sure that we had the correct files downloaded for the code to read, while also making sure that the filepath to these files was correctly indicated in each block of code. Parts of the code were correctly simulated, while others have been running for 20+ hours. Shown below is a video example of the two starting video clips, along with a third clip that gives a visual of how the DeepSort algorithm works along with helmet mapping. 
-
-For this example, we were given the two following videos, one with a angle from the endzone, and the other with an angle from the sideline. Both starting videos are shown below.
+When we first looked at running the code and attempting to simulate results, we first needed to make sure all necessary libraries were installed. This was necessary to be able to import the needed libraries in the code. Once this was done, we then needed to make sure that we had the correct files downloaded for the code to read, while also making sure that the filepath to these files was correctly indicated in each block of code. Parts of the code were correctly simulated, while others have been running for 20+ hours. For this example, we were given the two following videos, one with a angle from the endzone, and the other with an angle from the sideline. Both starting videos are shown below.
 
 
 https://user-images.githubusercontent.com/74614080/133801835-4213a1dd-f89b-4d28-9a22-8f88bd6f6880.mp4
