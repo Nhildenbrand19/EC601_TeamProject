@@ -77,3 +77,7 @@ The next part is scoring the predictions before applying our DeepSort algorithm 
 
 ![Validation Score](https://user-images.githubusercontent.com/74614080/138895602-8d203d83-5055-4f3d-818c-210290376ace.png)
 
+## Sprint 3
+Code attached above along with link to Google slides showing progress for this sprint
+
+
