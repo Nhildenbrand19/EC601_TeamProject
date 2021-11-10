@@ -82,7 +82,7 @@ Code attached above along with link to Google slides showing progress for this s
 
 [Sprint 3 Presentation](https://docs.google.com/presentation/d/1dCgd4TxupJAoRieBpMOObiLBWHdd4vvuOeNafCRvWtg/edit#slide=id.gfd79c3bad8_0_63)
 
-#Output of Video Frames
+# Output of Video Frames
 
 ![9First](https://user-images.githubusercontent.com/74614080/141172287-6492ab09-83e3-4c12-974b-f10bc9e5edf4.png)
 
