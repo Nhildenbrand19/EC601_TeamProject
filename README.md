@@ -80,4 +80,9 @@ The next part is scoring the predictions before applying our DeepSort algorithm 
 ## Sprint 3
 Code attached above along with link to Google slides showing progress for this sprint
 
+https://docs.google.com/presentation/d/1dCgd4TxupJAoRieBpMOObiLBWHdd4vvuOeNafCRvWtg/edit#slide=id.gfd79c3bad8_0_63
+
+
+
+
 
