@@ -89,3 +89,6 @@ Code attached above along with link to Google slides showing progress for this s
 
 ![Sideline3](https://user-images.githubusercontent.com/74614080/141796993-5ebe7d21-4c0e-4c30-8dbe-72e94383e565.png)
 
+
+We can see from two different clips, one being from an endzone view, and the other being from a sideline view, that our algorithm is correctly identifying helmets.
+
