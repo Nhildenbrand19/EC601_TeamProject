@@ -84,10 +84,8 @@ Code attached above along with link to Google slides showing progress for this s
 
 # Output of Video Frames
 
-![9First](https://user-images.githubusercontent.com/74614080/141172287-6492ab09-83e3-4c12-974b-f10bc9e5edf4.png)
 
-![9Second](https://user-images.githubusercontent.com/74614080/141172314-d4018df9-5756-4009-ac53-dcbe9f9a6bf7.png)
+![Endzone3](https://user-images.githubusercontent.com/74614080/141796977-aa544db8-5b81-4c72-b531-a3479f4621f3.png)
 
-![9Third](https://user-images.githubusercontent.com/74614080/141172322-b523e02d-6c4c-4ed1-90d2-78ac139c6088.png)
-
+![Sideline3](https://user-images.githubusercontent.com/74614080/141796993-5ebe7d21-4c0e-4c30-8dbe-72e94383e565.png)
 
