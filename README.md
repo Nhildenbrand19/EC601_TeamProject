@@ -48,4 +48,10 @@ The end goal in this case is to have the helmet mapping done on each player in t
 
 -------
 
-
+### References
+- [NFL Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/code)
+- [Yolo v5 Guide](https://www.kaggle.com/duythanhng/nfl-yolov5-deepsort-pytorch-guide/notebook)
+- [Helper Submission](https://www.kaggle.com/robikscube/helper-code-helmet-mapping-deepsort/notebook)
+- [DeepSort Code Reference](https://www.kaggle.com/s903124/nfl-helmet-with-yolov5-deepsort-starter)
+- [DeepSort Article](https://nanonets.com/blog/object-tracking-deepsort/)
+- [Sort Article](https://arxiv.org/pdf/1703.07402.pdf)
