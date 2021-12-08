@@ -1,7 +1,3 @@
-# EC601_TeamProject
-------
-## Sprint 1
-
 ## Problem Statement
 The project being discussed in this report is one that was found on Kaggle, a platform designed to propose machine learning projects and provide rewards for submitting functioning solutions. This project centers its focus on a partnership with the National Football League (NFL), as a continuation of an earlier project. Previously, the Kaggle community was provided with a dataset from sensors on football players which allowed the development of a detection algorithm for when a players’ helmet was impacted. Now, the NFL would like the ability to automatically track helmets and the players to whom they belong to on video. In combination with the previous helmet impact detection algorithm, the NFL hopes to use these tools in order to help answer questions related to player safety and the effects of helmet impacts on players over time.
 
